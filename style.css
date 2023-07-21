@@ -30,8 +30,9 @@ body{
     padding-top: 10px;
 }
 
-.TextMenu{
+.Long_text{
     display: flex;
+    gap: 15px;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
@@ -137,4 +138,8 @@ body{
     display: flex;
     gap: 48px;
     align-items: center;
+}
+
+.Redtext{
+    color: #F25822;
 }
