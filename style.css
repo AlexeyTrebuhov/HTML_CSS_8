@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Gilroy-Bold;
+}
+
+.center{
+    padding-left: calc(50% - 585px);
+    padding-right: calc(50% - 585px);
+}
+
+
+.item{
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
+}
+
+.HOME_PAGE{
+    padding-top: 25px;
+    margin-bottom: 2px;
+}
+
+.Meun_bar{
+    display: flex;
+    padding-bottom: 5px;
+    padding-top: 10px;
+}
+
+.TextMenu{
+    display: flex;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 550px;
+}
+
+.TextGrow{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 14px;
+}
+
+.HM_Image{
+    display: flex;
+}
+.Home_Meta{
+    padding-top: 4px;
+    padding-bottom: 2px;
+}
+
+.title{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding-top: 1px;
+    padding-left: 3px;
+    padding-right: 1px;
+}
+
+.Text_title{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: flex;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 40;
+    line-height: normal;
+}
+
+.Text_sub_title{
+    margin-top: 14px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    display: flex;
+}
+
+.ButtonMeta{
+    margin-top: 37px;
+    height: 50px;
+    display: flex;
+    align-content: center;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.Rectangle3{
+    position: relative;
+    width: 140px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+}
+
+.Text_button{
+    position: absolute;
+    top: 15px;
+    left: 35px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #FFFFFF;
+}
+
+.Text_video{
+    padding-left: 72px;
+    padding-top: 15px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.Image{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 41px;
+    width: 544px;
+}
+
+.BRAND{
+    height: 243px;
+    display: flex;
+}
+
+.Brand_logo{
+    padding-top: 17px;
+    display: flex;
+    gap: 48px;
+    align-items: center;
+}
